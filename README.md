@@ -1,0 +1,2 @@
+# learningshell
+learning shell scripts
